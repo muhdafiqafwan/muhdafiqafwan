@@ -1,7 +1,10 @@
 ## Hello! Afiq here 👋
 
 ### 🌱 Currently learning:
-- Next.js
+- MCP
+- N8N
+- Docker
+- Context Engineering
 
 ### 🤓 Area of interest:
 - Spring Boot, Apache Struts, Laravel, Tailwind
